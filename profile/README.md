@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to the Omni Foundation
+Omni is Latin for "All".
+
+Expect many types of projects including (Software, Website, etc).
 
 <!--
 
